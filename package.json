@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/benfoxall/workload/issues"
   },
-  "homepage": "https://github.com/benfoxall/workload#readme"
+  "homepage": "https://github.com/benfoxall/workload#readme",
+  "dependencies": {
+    "dotenv": "^1.2.0"
+  }
 }
